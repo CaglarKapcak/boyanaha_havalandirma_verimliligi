@@ -136,7 +136,7 @@ Field 5: Nem (%)
 
 Field 6: Basınç (hPa)
 
-##🔧 Sorun Giderme
+## 🔧 Sorun Giderme
 Sık Karşılaşılan Sorunlar
 Sensörler bulunamıyor: I2C bağlantılarını kontrol edin
 
@@ -146,7 +146,7 @@ SD kart yazılamıyor: Kart formatı ve bağlantı kontrolü
 
 Yanlış okumalar: Kalibrasyon ve sensör ısınma süresi
 
-##Bakım
+## Bakım
 Aylık sensör kalibrasyonu
 
 Haftalık veri yedekleme
@@ -155,7 +155,7 @@ Günlük görsel denetim
 
 SD kartın düzenli formatlanması
 
-##📝 Lisans
+## 📝 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
 Not: Bu sistem endüstriyel kullanım için tasarlanmamıştır. Test ve geliştirme amaçlıdır.
 
